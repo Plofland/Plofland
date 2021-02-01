@@ -59,11 +59,11 @@
 <details>
   <summary>:zap: GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/TT-33-Co-Make/frontend/pull/1) in [TT-33-Co-Make/frontend](https://github.com/TT-33-Co-Make/frontend)
-2. 💪 Opened PR [#1](https://github.com/TT-33-Co-Make/frontend/pull/1) in [TT-33-Co-Make/frontend](https://github.com/TT-33-Co-Make/frontend)
-3. 💪 Opened PR [#1](https://github.com/Plofland/web-sprint-challenge-advanced-web-applications/pull/1) in [Plofland/web-sprint-challenge-advanced-web-applications](https://github.com/Plofland/web-sprint-challenge-advanced-web-applications)
-4. 💪 Opened PR [#1](https://github.com/Plofland/HTTP-Movies-Assignment/pull/1) in [Plofland/HTTP-Movies-Assignment](https://github.com/Plofland/HTTP-Movies-Assignment)
-5. 💪 Opened PR [#1](https://github.com/Plofland/Auth-Friends/pull/1) in [Plofland/Auth-Friends](https://github.com/Plofland/Auth-Friends)
+1. 🎉 Merged PR [#7](https://github.com/TT-33-Co-Make/frontend/pull/7) in [TT-33-Co-Make/frontend](https://github.com/TT-33-Co-Make/frontend)
+2. 💪 Opened PR [#7](https://github.com/TT-33-Co-Make/frontend/pull/7) in [TT-33-Co-Make/frontend](https://github.com/TT-33-Co-Make/frontend)
+3. 🎉 Merged PR [#1](https://github.com/TT-33-Co-Make/frontend/pull/1) in [TT-33-Co-Make/frontend](https://github.com/TT-33-Co-Make/frontend)
+4. 💪 Opened PR [#1](https://github.com/TT-33-Co-Make/frontend/pull/1) in [TT-33-Co-Make/frontend](https://github.com/TT-33-Co-Make/frontend)
+5. 💪 Opened PR [#1](https://github.com/Plofland/web-sprint-challenge-advanced-web-applications/pull/1) in [Plofland/web-sprint-challenge-advanced-web-applications](https://github.com/Plofland/web-sprint-challenge-advanced-web-applications)
 <!--END_SECTION:activity-->
 </details>
 
