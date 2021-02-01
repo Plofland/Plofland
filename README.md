@@ -9,7 +9,11 @@
 - 🥅 2021 Goals: Graduate from Lambda School, move to San Diego, CA & begin a career as a software engineer
 - ⚡ Fun facts: I love to photography, cooking, & backpacking
 
+<br/>
+
 ### Connect with me:
+
+<br/>
 
 [<img align="left" alt="plofland portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
@@ -22,6 +26,8 @@
 <br />
 
 ### Languages and Tools:
+
+<br/>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -48,32 +54,15 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />] -->
 <br />
 
-<!-- ### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Plofland Spotify Playing" width="350" />](https://open.spotify.com/user/1266118493)
-
-[<img src="https://novatorem-mocha.vercel.app/api/spotify" alt="Plofland Spotify Playing" width="350" />](https://open.spotify.com/user/1266118493)
-
-[![Spotify](https://novatorem-mocha.vercel.app/api/spotify)](https://open.spotify.com/user/1266118493)
-
-[![Spotify](https://now-playing-spotify-plofland.vercel.app/api/spotify)](https://open.spotify.com/user/1266118493)
-
-[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/1266118493) -->
-
 <br />
 
 ---
 
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-</details>
-
 <img align="left" alt="Peter Lofland's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Plofland&show_icons=true&hide_border=true&theme=tokyonight" />
+
+<br/>
+
+<!--START_SECTION:activity-->
 
 <!-- <details>
   <summary>:zap: GitHub Stats</summary>
