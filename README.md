@@ -1,6 +1,6 @@
 ### Hello, I'm Peter 👋
 
-[![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fplofland.com)](https://personal-portfolio-cyan.vercel.app/)
+[![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fpersonal-portfolio-cyan.vercel.app/)](https://personal-portfolio-cyan.vercel.app/)
 
 ## I'm a Full Stack Web Developer
 
