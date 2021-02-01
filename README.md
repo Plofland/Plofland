@@ -56,16 +56,14 @@
 
 ---
 
+<details>
+  <summary>:zap: GitHub Activity</summary>
+<!--START_SECTION:activity-->
+</details>
+
 <img align="left" alt="Peter Lofland's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Plofland&show_icons=true&hide_border=true&theme=tokyonight" />
 
 <br/>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<!-- <details>
-  <summary>:zap: GitHub Stats</summary>
-</details> -->
 
 [website]: https://personal-portfolio-cyan.vercel.app/
 [twitter]: https://twitter.com/PeterLofland
