@@ -59,6 +59,12 @@
 <details>
   <summary>:zap: GitHub Activity</summary>
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com/Plofland/web-sprint-challenge-advanced-web-applications/pull/1) in [Plofland/web-sprint-challenge-advanced-web-applications](https://github.com/Plofland/web-sprint-challenge-advanced-web-applications)
+2. 💪 Opened PR [#1](https://github.com/Plofland/HTTP-Movies-Assignment/pull/1) in [Plofland/HTTP-Movies-Assignment](https://github.com/Plofland/HTTP-Movies-Assignment)
+3. 💪 Opened PR [#1](https://github.com/Plofland/Auth-Friends/pull/1) in [Plofland/Auth-Friends](https://github.com/Plofland/Auth-Friends)
+4. 💪 Opened PR [#1](https://github.com/Plofland/React-Testing-TV-Show/pull/1) in [Plofland/React-Testing-TV-Show](https://github.com/Plofland/React-Testing-TV-Show)
+5. 💪 Opened PR [#1](https://github.com/Plofland/web-sprint-challenge-advanced-state-management/pull/1) in [Plofland/web-sprint-challenge-advanced-state-management](https://github.com/Plofland/web-sprint-challenge-advanced-state-management)
+<!--END_SECTION:activity-->
 </details>
 
 <img align="left" alt="Peter Lofland's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Plofland&show_icons=true&hide_border=true&theme=tokyonight" />
