@@ -56,11 +56,11 @@
 <details>
   <summary>:zap: GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/TT-33-Co-Make/frontend/pull/31) in [TT-33-Co-Make/frontend](https://github.com/TT-33-Co-Make/frontend)
-2. 💪 Opened PR [#31](https://github.com/TT-33-Co-Make/frontend/pull/31) in [TT-33-Co-Make/frontend](https://github.com/TT-33-Co-Make/frontend)
-3. 🎉 Merged PR [#30](https://github.com/TT-33-Co-Make/frontend/pull/30) in [TT-33-Co-Make/frontend](https://github.com/TT-33-Co-Make/frontend)
-4. 💪 Opened PR [#30](https://github.com/TT-33-Co-Make/frontend/pull/30) in [TT-33-Co-Make/frontend](https://github.com/TT-33-Co-Make/frontend)
-5. 🎉 Merged PR [#28](https://github.com/TT-33-Co-Make/frontend/pull/28) in [TT-33-Co-Make/frontend](https://github.com/TT-33-Co-Make/frontend)
+1. 🎉 Merged PR [#27](https://github.com/TT-33-Co-Make/frontend/pull/27) in [TT-33-Co-Make/frontend](https://github.com/TT-33-Co-Make/frontend)
+2. 🎉 Merged PR [#31](https://github.com/TT-33-Co-Make/frontend/pull/31) in [TT-33-Co-Make/frontend](https://github.com/TT-33-Co-Make/frontend)
+3. 💪 Opened PR [#31](https://github.com/TT-33-Co-Make/frontend/pull/31) in [TT-33-Co-Make/frontend](https://github.com/TT-33-Co-Make/frontend)
+4. 🎉 Merged PR [#30](https://github.com/TT-33-Co-Make/frontend/pull/30) in [TT-33-Co-Make/frontend](https://github.com/TT-33-Co-Make/frontend)
+5. 💪 Opened PR [#30](https://github.com/TT-33-Co-Make/frontend/pull/30) in [TT-33-Co-Make/frontend](https://github.com/TT-33-Co-Make/frontend)
 <!--END_SECTION:activity-->
 </details>
 
