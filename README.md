@@ -56,11 +56,11 @@
 <details>
   <summary>:zap: GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Plofland/node-api1-project/pull/1) in [Plofland/node-api1-project](https://github.com/Plofland/node-api1-project)
-2. 🎉 Merged PR [#49](https://github.com/TT-33-Co-Make/frontend/pull/49) in [TT-33-Co-Make/frontend](https://github.com/TT-33-Co-Make/frontend)
-3. 💪 Opened PR [#49](https://github.com/TT-33-Co-Make/frontend/pull/49) in [TT-33-Co-Make/frontend](https://github.com/TT-33-Co-Make/frontend)
-4. 🎉 Merged PR [#48](https://github.com/TT-33-Co-Make/frontend/pull/48) in [TT-33-Co-Make/frontend](https://github.com/TT-33-Co-Make/frontend)
-5. 💪 Opened PR [#48](https://github.com/TT-33-Co-Make/frontend/pull/48) in [TT-33-Co-Make/frontend](https://github.com/TT-33-Co-Make/frontend)
+1. 🎉 Merged PR [#50](https://github.com/TT-33-Co-Make/frontend/pull/50) in [TT-33-Co-Make/frontend](https://github.com/TT-33-Co-Make/frontend)
+2. 💪 Opened PR [#50](https://github.com/TT-33-Co-Make/frontend/pull/50) in [TT-33-Co-Make/frontend](https://github.com/TT-33-Co-Make/frontend)
+3. 💪 Opened PR [#1](https://github.com/Plofland/node-api1-project/pull/1) in [Plofland/node-api1-project](https://github.com/Plofland/node-api1-project)
+4. 🎉 Merged PR [#49](https://github.com/TT-33-Co-Make/frontend/pull/49) in [TT-33-Co-Make/frontend](https://github.com/TT-33-Co-Make/frontend)
+5. 💪 Opened PR [#49](https://github.com/TT-33-Co-Make/frontend/pull/49) in [TT-33-Co-Make/frontend](https://github.com/TT-33-Co-Make/frontend)
 <!--END_SECTION:activity-->
 </details>
 
