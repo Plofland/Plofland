@@ -56,11 +56,11 @@
 <details>
   <summary>:zap: GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Plofland/node-auth1-project/pull/1) in [Plofland/node-auth1-project](https://github.com/Plofland/node-auth1-project)
-2. 💪 Opened PR [#1](https://github.com/Plofland/node-db4-project/pull/1) in [Plofland/node-db4-project](https://github.com/Plofland/node-db4-project)
-3. 💪 Opened PR [#1](https://github.com/Plofland/node-db3-project/pull/1) in [Plofland/node-db3-project](https://github.com/Plofland/node-db3-project)
-4. 💪 Opened PR [#1](https://github.com/Plofland/node-db2-project/pull/1) in [Plofland/node-db2-project](https://github.com/Plofland/node-db2-project)
-5. 💪 Opened PR [#1](https://github.com/Plofland/node-db1-project/pull/1) in [Plofland/node-db1-project](https://github.com/Plofland/node-db1-project)
+1. 💪 Opened PR [#1](https://github.com/Plofland/node-auth2-project/pull/1) in [Plofland/node-auth2-project](https://github.com/Plofland/node-auth2-project)
+2. 💪 Opened PR [#1](https://github.com/Plofland/node-auth1-project/pull/1) in [Plofland/node-auth1-project](https://github.com/Plofland/node-auth1-project)
+3. 💪 Opened PR [#1](https://github.com/Plofland/node-db4-project/pull/1) in [Plofland/node-db4-project](https://github.com/Plofland/node-db4-project)
+4. 💪 Opened PR [#1](https://github.com/Plofland/node-db3-project/pull/1) in [Plofland/node-db3-project](https://github.com/Plofland/node-db3-project)
+5. 💪 Opened PR [#1](https://github.com/Plofland/node-db2-project/pull/1) in [Plofland/node-db2-project](https://github.com/Plofland/node-db2-project)
 <!--END_SECTION:activity-->
 </details>
 
