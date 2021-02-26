@@ -56,11 +56,11 @@
 <details>
   <summary>:zap: GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Plofland/node-server-testing-challenge/pull/1) in [Plofland/node-server-testing-challenge](https://github.com/Plofland/node-server-testing-challenge)
-2. 💪 Opened PR [#1](https://github.com/Plofland/webtesting-i-challenge/pull/1) in [Plofland/webtesting-i-challenge](https://github.com/Plofland/webtesting-i-challenge)
-3. 💪 Opened PR [#1](https://github.com/Plofland/node-auth2-project/pull/1) in [Plofland/node-auth2-project](https://github.com/Plofland/node-auth2-project)
-4. 💪 Opened PR [#1](https://github.com/Plofland/node-auth1-project/pull/1) in [Plofland/node-auth1-project](https://github.com/Plofland/node-auth1-project)
-5. 💪 Opened PR [#1](https://github.com/Plofland/node-db4-project/pull/1) in [Plofland/node-db4-project](https://github.com/Plofland/node-db4-project)
+1. 💪 Opened PR [#1](https://github.com/Plofland/web-sprint-challenge-authentication-and-testing/pull/1) in [Plofland/web-sprint-challenge-authentication-and-testing](https://github.com/Plofland/web-sprint-challenge-authentication-and-testing)
+2. 💪 Opened PR [#1](https://github.com/Plofland/node-server-testing-challenge/pull/1) in [Plofland/node-server-testing-challenge](https://github.com/Plofland/node-server-testing-challenge)
+3. 💪 Opened PR [#1](https://github.com/Plofland/webtesting-i-challenge/pull/1) in [Plofland/webtesting-i-challenge](https://github.com/Plofland/webtesting-i-challenge)
+4. 💪 Opened PR [#1](https://github.com/Plofland/node-auth2-project/pull/1) in [Plofland/node-auth2-project](https://github.com/Plofland/node-auth2-project)
+5. 💪 Opened PR [#1](https://github.com/Plofland/node-auth1-project/pull/1) in [Plofland/node-auth1-project](https://github.com/Plofland/node-auth1-project)
 <!--END_SECTION:activity-->
 </details>
 
