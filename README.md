@@ -56,11 +56,11 @@
 <details>
   <summary>:zap: GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/TT-33-Use-My-Tech-Stuff/backend-node/pull/6) in [TT-33-Use-My-Tech-Stuff/backend-node](https://github.com/TT-33-Use-My-Tech-Stuff/backend-node)
-2. 💪 Opened PR [#6](https://github.com/TT-33-Use-My-Tech-Stuff/backend-node/pull/6) in [TT-33-Use-My-Tech-Stuff/backend-node](https://github.com/TT-33-Use-My-Tech-Stuff/backend-node)
-3. 🎉 Merged PR [#51](https://github.com/TT-33-Co-Make/frontend/pull/51) in [TT-33-Co-Make/frontend](https://github.com/TT-33-Co-Make/frontend)
-4. 💪 Opened PR [#51](https://github.com/TT-33-Co-Make/frontend/pull/51) in [TT-33-Co-Make/frontend](https://github.com/TT-33-Co-Make/frontend)
-5. 🎉 Merged PR [#5](https://github.com/TT-33-Use-My-Tech-Stuff/backend-node/pull/5) in [TT-33-Use-My-Tech-Stuff/backend-node](https://github.com/TT-33-Use-My-Tech-Stuff/backend-node)
+1. 🎉 Merged PR [#7](https://github.com/TT-33-Use-My-Tech-Stuff/backend-node/pull/7) in [TT-33-Use-My-Tech-Stuff/backend-node](https://github.com/TT-33-Use-My-Tech-Stuff/backend-node)
+2. 💪 Opened PR [#7](https://github.com/TT-33-Use-My-Tech-Stuff/backend-node/pull/7) in [TT-33-Use-My-Tech-Stuff/backend-node](https://github.com/TT-33-Use-My-Tech-Stuff/backend-node)
+3. 🎉 Merged PR [#6](https://github.com/TT-33-Use-My-Tech-Stuff/backend-node/pull/6) in [TT-33-Use-My-Tech-Stuff/backend-node](https://github.com/TT-33-Use-My-Tech-Stuff/backend-node)
+4. 💪 Opened PR [#6](https://github.com/TT-33-Use-My-Tech-Stuff/backend-node/pull/6) in [TT-33-Use-My-Tech-Stuff/backend-node](https://github.com/TT-33-Use-My-Tech-Stuff/backend-node)
+5. 🎉 Merged PR [#51](https://github.com/TT-33-Co-Make/frontend/pull/51) in [TT-33-Co-Make/frontend](https://github.com/TT-33-Co-Make/frontend)
 <!--END_SECTION:activity-->
 </details>
 
