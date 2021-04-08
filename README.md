@@ -56,11 +56,11 @@
 <details>
   <summary>:zap: GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/TT-33-Use-My-Tech-Stuff/frontend/pull/30) in [TT-33-Use-My-Tech-Stuff/frontend](https://github.com/TT-33-Use-My-Tech-Stuff/frontend)
-2. 💪 Opened PR [#30](https://github.com/TT-33-Use-My-Tech-Stuff/frontend/pull/30) in [TT-33-Use-My-Tech-Stuff/frontend](https://github.com/TT-33-Use-My-Tech-Stuff/frontend)
-3. 🎉 Merged PR [#24](https://github.com/TT-33-Use-My-Tech-Stuff/backend-node/pull/24) in [TT-33-Use-My-Tech-Stuff/backend-node](https://github.com/TT-33-Use-My-Tech-Stuff/backend-node)
-4. 💪 Opened PR [#24](https://github.com/TT-33-Use-My-Tech-Stuff/backend-node/pull/24) in [TT-33-Use-My-Tech-Stuff/backend-node](https://github.com/TT-33-Use-My-Tech-Stuff/backend-node)
-5. 🎉 Merged PR [#23](https://github.com/TT-33-Use-My-Tech-Stuff/backend-node/pull/23) in [TT-33-Use-My-Tech-Stuff/backend-node](https://github.com/TT-33-Use-My-Tech-Stuff/backend-node)
+1. 🎉 Merged PR [#20](https://github.com/Lambda-School-Labs/github-flow-labs33/pull/20) in [Lambda-School-Labs/github-flow-labs33](https://github.com/Lambda-School-Labs/github-flow-labs33)
+2. 💪 Opened PR [#20](https://github.com/Lambda-School-Labs/github-flow-labs33/pull/20) in [Lambda-School-Labs/github-flow-labs33](https://github.com/Lambda-School-Labs/github-flow-labs33)
+3. ❌ Closed PR [#7](https://github.com/Lambda-School-Labs/github-flow-labs33/pull/7) in [Lambda-School-Labs/github-flow-labs33](https://github.com/Lambda-School-Labs/github-flow-labs33)
+4. 💪 Opened PR [#7](https://github.com/Lambda-School-Labs/github-flow-labs33/pull/7) in [Lambda-School-Labs/github-flow-labs33](https://github.com/Lambda-School-Labs/github-flow-labs33)
+5. 🎉 Merged PR [#30](https://github.com/TT-33-Use-My-Tech-Stuff/frontend/pull/30) in [TT-33-Use-My-Tech-Stuff/frontend](https://github.com/TT-33-Use-My-Tech-Stuff/frontend)
 <!--END_SECTION:activity-->
 </details>
 
