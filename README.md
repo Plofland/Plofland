@@ -56,11 +56,11 @@
 <details>
   <summary>:zap: GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#130](https://github.com/Lambda-School-Labs/lan-fe-a/pull/130) in [Lambda-School-Labs/lan-fe-a](https://github.com/Lambda-School-Labs/lan-fe-a)
-2. 💪 Opened PR [#83](https://github.com/Lambda-School-Labs/lan-be-a/pull/83) in [Lambda-School-Labs/lan-be-a](https://github.com/Lambda-School-Labs/lan-be-a)
-3. 💪 Opened PR [#129](https://github.com/Lambda-School-Labs/lan-fe-a/pull/129) in [Lambda-School-Labs/lan-fe-a](https://github.com/Lambda-School-Labs/lan-fe-a)
-4. ❌ Closed PR [#127](https://github.com/Lambda-School-Labs/lan-fe-a/pull/127) in [Lambda-School-Labs/lan-fe-a](https://github.com/Lambda-School-Labs/lan-fe-a)
-5. 💪 Opened PR [#127](https://github.com/Lambda-School-Labs/lan-fe-a/pull/127) in [Lambda-School-Labs/lan-fe-a](https://github.com/Lambda-School-Labs/lan-fe-a)
+1. 💪 Opened PR [#84](https://github.com/Lambda-School-Labs/lan-be-a/pull/84) in [Lambda-School-Labs/lan-be-a](https://github.com/Lambda-School-Labs/lan-be-a)
+2. 💪 Opened PR [#130](https://github.com/Lambda-School-Labs/lan-fe-a/pull/130) in [Lambda-School-Labs/lan-fe-a](https://github.com/Lambda-School-Labs/lan-fe-a)
+3. 💪 Opened PR [#83](https://github.com/Lambda-School-Labs/lan-be-a/pull/83) in [Lambda-School-Labs/lan-be-a](https://github.com/Lambda-School-Labs/lan-be-a)
+4. 💪 Opened PR [#129](https://github.com/Lambda-School-Labs/lan-fe-a/pull/129) in [Lambda-School-Labs/lan-fe-a](https://github.com/Lambda-School-Labs/lan-fe-a)
+5. ❌ Closed PR [#127](https://github.com/Lambda-School-Labs/lan-fe-a/pull/127) in [Lambda-School-Labs/lan-fe-a](https://github.com/Lambda-School-Labs/lan-fe-a)
 <!--END_SECTION:activity-->
 </details>
 
