@@ -89,6 +89,7 @@
 </div>
 
 
+
 <!-- Social Icons Attribute -->
 <p align="center" style="font-size: .8rem">
   Social icons made by 
@@ -100,6 +101,7 @@
       Flaticon
     </a>
 </p>
+
 
 
 
