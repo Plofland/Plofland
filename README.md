@@ -67,7 +67,7 @@
 ![Figma](https://img.shields.io/badge/Figma-2E3440?style=for-the-badge&logo=figma)
 
 <!-- GitHub Stats -->
-<div verticle-align="center">
+<div align="center">
   <img style="margin: 1rem" alt="Peter Lofland's GitHub Contribution Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Plofland&show_icons=true&hide_border=true&theme=tokyonight" />
 
   <img style="margin: 1rem" alt="Peter Lofland's Most Used Language Stats"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=plofland&layout=compact&theme=radical" />
