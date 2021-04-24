@@ -74,7 +74,7 @@
 </div>
 
 <!-- Social Icons Attribute -->
-<p align="center" style="font-size: .8rem">
+<p align="right" style="font-size: .6rem">
   Social icons made by 
     <a href="https://www.flaticon.com/authors/pixel-perfect">
       Pixel perfect
