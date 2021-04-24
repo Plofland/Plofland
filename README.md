@@ -3,33 +3,42 @@
 
 <br>
 
-[![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fpersonal-portfolio-cyan.vercel.app/)](https://personal-portfolio-cyan.vercel.app/)
 
 ## I'm a Full Stack Web Developer
 
 💻 Currently working on [Lambda Alumni Network](https://github.com/Lambda-School-Labs/lan-fe-a)
 
-🌱 I’m currently learning [SWR](https://swr.vercel.app/)
+🌱 I’m currently learning [Ant Design](https://ant.design/docs/react/introduce)
 
 🥅 2021 Goals: Graduate from Lambda School, move to San Diego, CA & begin my career as a software engineer
 
 ⚡ Fun facts: I love to photography, cooking, backpacking, & have never lived more than an hour from a beach
 
-<br/>
+<br>
 
-## Connect me:
+[![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fpersonal-portfolio-cyan.vercel.app/)](https://personal-portfolio-cyan.vercel.app/)
 
-[<img align="left" alt="Gmail" width="22px" src="assets\gmail.svg" />][gmail]
 
-[<img align="left" alt="Twitter" width="22px" src="assets\013-twitter-1.svg" />][twitter]
 
-[<img align="left" alt="LinkedIn" width="22px" src="assets\031-linkedin.svg" />][linkedin]
 
-[<img align="left" alt="Instagram" width="22px" src="assets\034-instagram.svg" />][instagram]
+<!-- Contact Information -->
+<!-- ## Connect me: -->
 
-<br />
-<br />
 
+[<img align="left" style="margin-right: 1.5rem" alt="Gmail" width="36px" src="assets\gmail.svg" />][gmail]
+
+[<img align="left" style="margin-right: 1.5rem" alt="Twitter" width="36px" src="assets\013-twitter-1.svg" />][twitter]
+
+[<img align="left" style="margin-right: 1.5rem" alt="LinkedIn" width="36px" src="assets\031-linkedin.svg" />][linkedin]
+
+[<img align="left" style="margin-right: 1.5rem" alt="Instagram" width="36px" src="assets\034-instagram.svg" />][instagram]
+
+<br>
+<br>
+
+---
+
+<!-- Skill Badges -->
 ## Proficient:
 
 ![HTML](https://img.shields.io/badge/HTML-2E3440?style=for-the-badge&logo=html5)
@@ -68,29 +77,31 @@
 
 
 ---
+<!-- GitHub Stats -->
+<div style="display: flex; flex-direction: column">
+
+  <img style="margin: 1rem" alt="Peter Lofland's GitHub Contribution Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Plofland&show_icons=true&hide_border=true&theme=tokyonight" />
 
 
 
-<img align="left" alt="Peter Lofland's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Plofland&show_icons=true&hide_border=true&theme=tokyonight" />
+
+  <img style="margin: 1rem" alt="Peter Lofland's Most Used Language Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=plofland&layout=compact&theme=radical" />
+</div>
 
 
-
-<a href="https://github.com/plofland">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=plofland&layout=compact&theme=radical" />
-</a>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<!-- Social Icons Attribute -->
+<p align="center" style="font-size: .8rem">
+  Social icons made by 
+    <a href="https://www.flaticon.com/authors/pixel-perfect">
+      Pixel perfect
+    </a> 
+  from 
+    <a href="https://www.flaticon.com/">
+      Flaticon
+    </a>
+</p>
 
 
-Social icons mady by [Pixel perfect](https://www.flaticon.com/authors/pixel-perfect) from [Flaticon](https://www.flaticon.com/)
 
 [website]: https://personal-portfolio-cyan.vercel.app/
 [twitter]: https://twitter.com/PeterLofland
