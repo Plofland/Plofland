@@ -67,11 +67,10 @@
 ![Figma](https://img.shields.io/badge/Figma-2E3440?style=for-the-badge&logo=figma)
 
 <!-- GitHub Stats -->
-<div style="display: flex; flex-direction: column; align-items:center">
-
+<div verticle-align="center">
   <img style="margin: 1rem" alt="Peter Lofland's GitHub Contribution Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Plofland&show_icons=true&hide_border=true&theme=tokyonight" />
 
-  <img style="margin: 1rem" alt="Peter Lofland's Most Used Language Stats" verticle-align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=plofland&layout=compact&theme=radical" />
+  <img style="margin: 1rem" alt="Peter Lofland's Most Used Language Stats"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=plofland&layout=compact&theme=radical" />
 </div>
 
 <!-- Social Icons Attribute -->
