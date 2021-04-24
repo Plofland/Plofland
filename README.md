@@ -1,8 +1,6 @@
-
 ## Hello, I'm Peter 👋
 
 <br>
-
 
 ## I'm a Full Stack Web Developer
 
@@ -18,12 +16,8 @@
 
 [![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fpersonal-portfolio-cyan.vercel.app/)](https://personal-portfolio-cyan.vercel.app/)
 
-
-
-
 <!-- Contact Information -->
 <!-- ## Connect me: -->
-
 
 [<img align="left" style="margin-right: 1.5rem" alt="Gmail" width="36px" src="assets\gmail.svg" />][gmail]
 
@@ -36,9 +30,8 @@
 <br>
 <br>
 
-
-
 <!-- Skill Badges -->
+
 ## Proficient:
 
 ![HTML](https://img.shields.io/badge/HTML-2E3440?style=for-the-badge&logo=html5)
@@ -59,7 +52,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-2E3440?style=for-the-badge&logo=visual%20studio)
 ![Styled-Components](https://img.shields.io/badge/Styled%20Components-2E3440?style=for-the-badge&logo=styled-components)
 
-
 ## Experienced:
 
 ![Next js](https://img.shields.io/badge/Next%20js-2E3440?style=for-the-badge&logo=next.js)
@@ -74,21 +66,13 @@
 ![Material-UI](https://img.shields.io/badge/Material%20UI-2E3440?style=for-the-badge&logo=material-ui)
 ![Figma](https://img.shields.io/badge/Figma-2E3440?style=for-the-badge&logo=figma)
 
-
-
-
 <!-- GitHub Stats -->
 <div style="display: flex; flex-direction: column; align-items:center">
 
-  <img style="margin: 1rem" alt="Peter Lofland's GitHub Contribution Stats" height="200px" src="https://github-readme-stats.codestackr.vercel.app/api?username=Plofland&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img style="margin: 1rem" alt="Peter Lofland's GitHub Contribution Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Plofland&show_icons=true&hide_border=true&theme=tokyonight" />
 
-
-
-
-  <img style="margin: 1rem" alt="Peter Lofland's Most Used Language Stats" height="200px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=plofland&layout=compact&theme=radical" />
+  <img style="margin: 1rem" alt="Peter Lofland's Most Used Language Stats" verticle-align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=plofland&layout=compact&theme=radical" />
 </div>
-
-
 
 <!-- Social Icons Attribute -->
 <p align="center" style="font-size: .8rem">
@@ -101,9 +85,6 @@
       Flaticon
     </a>
 </p>
-
-
-
 
 [website]: https://personal-portfolio-cyan.vercel.app/
 [twitter]: https://twitter.com/PeterLofland
