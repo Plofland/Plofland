@@ -1,74 +1,99 @@
-### Hello, I'm Peter 👋
+
+## Hello, I'm Peter 👋
+
+<br>
 
 [![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fpersonal-portfolio-cyan.vercel.app/)](https://personal-portfolio-cyan.vercel.app/)
 
 ## I'm a Full Stack Web Developer
 
-- 💻 My journey in software development has only just begun and I'm excited to learn more!
-- 🌱 I’m currently learning full stack through Lambda School
-- 🥅 2021 Goals: Graduate from Lambda School, move to San Diego, CA & begin a career as a software engineer
-- ⚡ Fun facts: I love to photography, cooking, & backpacking
+💻 Currently working on [Lambda Alumni Network](https://github.com/Lambda-School-Labs/lan-fe-a)
+
+🌱 I’m currently learning [SWR](https://swr.vercel.app/)
+
+🥅 2021 Goals: Graduate from Lambda School, move to San Diego, CA & begin my career as a software engineer
+
+⚡ Fun facts: I love to photography, cooking, backpacking, & have never lived more than an hour from a beach
 
 <br/>
 
-### Connect with me:
+## Connect me:
 
-[<img align="left" alt="plofland portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Gmail" width="22px" src="assets\gmail.svg" />][gmail]
 
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Twitter" width="22px" src="assets\013-twitter-1.svg" />][twitter]
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="assets\031-linkedin.svg" />][linkedin]
 
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Instagram" width="22px" src="assets\034-instagram.svg" />][instagram]
 
 <br />
+<br />
 
-### Languages and Tools:
+## Proficient:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+![HTML](https://img.shields.io/badge/HTML-2E3440?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-2E3440?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-2E3440?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-2E3440?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/Redux-2E3440?style=for-the-badge&logo=redux)
+![React Router](https://img.shields.io/badge/React%20Router-2E3440?style=for-the-badge&logo=react%20router)
+![npm](https://img.shields.io/badge/npm-2E3440?style=for-the-badge&logo=npm)
+![Node](https://img.shields.io/badge/Node-2E3440?style=for-the-badge&logo=node.js)
+![Heroku](https://img.shields.io/badge/Heroku-2E3440?style=for-the-badge&logo=heroku)
+![Express](https://img.shields.io/badge/Express-2E3440?style=for-the-badge&logo=express)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2E3440?style=for-the-badge&logo=postgresql)
+![SQLite](https://img.shields.io/badge/SQLite-2E3440?style=for-the-badge&logo=sqlite)
+![git](https://img.shields.io/badge/git-2E3440?style=for-the-badge&logo=git)
+![Github](https://img.shields.io/badge/GitHub-2E3440?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-2E3440?style=for-the-badge&logo=Postman)
+![VS Code](https://img.shields.io/badge/VS%20Code-2E3440?style=for-the-badge&logo=visual%20studio)
+![Styled-Components](https://img.shields.io/badge/Styled%20Components-2E3440?style=for-the-badge&logo=styled-components)
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+## Experienced:
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+![Next js](https://img.shields.io/badge/Next%20js-2E3440?style=for-the-badge&logo=next.js)
+![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python)
+![AWS Amplify](https://img.shields.io/badge/Amplify-2E3440?style=for-the-badge&logo=aws%20amplify)
+![Netlify](https://img.shields.io/badge/Netlify-2E3440?style=for-the-badge&logo=netlify)
+![Vercel](https://img.shields.io/badge/Vercel-2E3440?style=for-the-badge&logo=vercel)
+![MongoDB](https://img.shields.io/badge/MongoDB-2E3440?style=for-the-badge&logo=mongodb)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-2E3440?style=for-the-badge&logo=lighthouse)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-2E3440?style=for-the-badge&logo=ant%20design)
+![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-2E3440?style=for-the-badge&logo=tailwind%20css)
+![Material-UI](https://img.shields.io/badge/Material%20UI-2E3440?style=for-the-badge&logo=material-ui)
+![Figma](https://img.shields.io/badge/Figma-2E3440?style=for-the-badge&logo=figma)
 
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<!-- [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />] -->
-
-<br/>
 
 ---
 
-<details>
-  <summary>:zap: GitHub Activity</summary>
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/TT-33-Co-Make/frontend/pull/15) in [TT-33-Co-Make/frontend](https://github.com/TT-33-Co-Make/frontend)
-2. 💪 Opened PR [#15](https://github.com/TT-33-Co-Make/frontend/pull/15) in [TT-33-Co-Make/frontend](https://github.com/TT-33-Co-Make/frontend)
-3. 🎉 Merged PR [#14](https://github.com/TT-33-Co-Make/frontend/pull/14) in [TT-33-Co-Make/frontend](https://github.com/TT-33-Co-Make/frontend)
-4. 💪 Opened PR [#14](https://github.com/TT-33-Co-Make/frontend/pull/14) in [TT-33-Co-Make/frontend](https://github.com/TT-33-Co-Make/frontend)
-5. 🎉 Merged PR [#12](https://github.com/TT-33-Co-Make/frontend/pull/12) in [TT-33-Co-Make/frontend](https://github.com/TT-33-Co-Make/frontend)
-<!--END_SECTION:activity-->
-</details>
+
 
 <img align="left" alt="Peter Lofland's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Plofland&show_icons=true&hide_border=true&theme=tokyonight" />
 
+
+
+<a href="https://github.com/plofland">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=plofland&layout=compact&theme=radical" />
+</a>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+Social icons mady by [Pixel perfect](https://www.flaticon.com/authors/pixel-perfect) from [Flaticon](https://www.flaticon.com/)
 
 [website]: https://personal-portfolio-cyan.vercel.app/
 [twitter]: https://twitter.com/PeterLofland
 [instagram]: https://www.instagram.com/peterlofland/
 [linkedin]: https://www.linkedin.com/in/peter-lofland/
+[gmail]: https://mail.google.com/mail/?view=cm&fs=1&to=ploflan@gmail.com&su=SUBJECT&body=BODY
