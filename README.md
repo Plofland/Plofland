@@ -36,7 +36,7 @@
 <br>
 <br>
 
----
+
 
 <!-- Skill Badges -->
 ## Proficient:
@@ -76,9 +76,9 @@
 
 
 
----
+
 <!-- GitHub Stats -->
-<div style="display: flex; flex-direction: column">
+<div style="display: flex; flex-direction: column; align-items:center">
 
   <img style="margin: 1rem" alt="Peter Lofland's GitHub Contribution Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Plofland&show_icons=true&hide_border=true&theme=tokyonight" />
 
