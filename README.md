@@ -1,4 +1,4 @@
-## Hello, I'm Peter 👋
+## Hello, I'm Peter <img src="./assets/wave.gif" width="30px">
 
 <br>
 
