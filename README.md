@@ -10,11 +10,11 @@
 
 🥅  2021 Goals: ~~Graduate from Lambda School~~, move to San Diego, CA & begin my career as a software engineer
 
-⚡  Fun facts: I love to photography, cooking, backpacking, & have never lived more than an hour from a beach
+⚡  Outside of Code: I love to photography, cooking, backpacking, & have never lived more than an hour from a beach
 
 <br>
 
-[![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fpersonal-portfolio-cyan.vercel.app/)](https://personal-portfolio-cyan.vercel.app/)
+[![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fpeterlofland.com/)](https://peterlofland.com)
 [![Website](https://img.shields.io/website?label=resume&style=for-the-badge&url=https%3A%2F%2Fdocs.google.com/document/d/1pFfp71AN5CcOXJOPLCCxcAPnkYM6qA-hiIY1qB2KipY/edit?usp=sharing)](https://docs.google.com/document/d/1pFfp71AN5CcOXJOPLCCxcAPnkYM6qA-hiIY1qB2KipY/edit?usp=sharing)
 
 <!-- Contact Information -->
