@@ -6,7 +6,7 @@
 
 💻  Currently working on [Lambda Alumni Network](https://github.com/Lambda-School-Labs/lan-fe-a)
 
-🌱  I’m currently learning [Ant Design](https://ant.design/docs/react/introduce)
+🌱  I’m currently learning [TypeScript](https://www.typescriptlang.org/)
 
 🥅  2021 Goals: ~~Graduate from Lambda School~~, move to San Diego, CA & begin my career as a software engineer
 
