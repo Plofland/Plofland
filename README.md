@@ -85,7 +85,7 @@
     <a href="https://www.flaticon.com/authors/pixel-perfect">
       Pixel perfect
     </a> 
-  from 
+  at 
     <a href="https://www.flaticon.com/">
       Flaticon
     </a>
@@ -96,5 +96,5 @@
 [instagram]: https://www.instagram.com/peterlofland/
 [linkedin]: https://www.linkedin.com/in/peter-lofland/
 [gmail]: https://mail.google.com/mail/?view=cm&fs=1&to=ploflan@gmail.com&su=SUBJECT&body=BODY
-[portfolio]: https://react-personal-portfolio-mou590r6d-plofland.vercel.app/
+[portfolio]: https://peterlofland.com/
 [resume]: https://docs.google.com/document/d/1pFfp71AN5CcOXJOPLCCxcAPnkYM6qA-hiIY1qB2KipY/edit?usp=sharing
