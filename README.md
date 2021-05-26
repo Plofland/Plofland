@@ -4,13 +4,13 @@
 
 ## I'm a Full Stack Web Developer
 
-💻  Currently working on [Lambda Alumni Network](https://github.com/Lambda-School-Labs/lan-fe-a)
+💻 Currently working on [Lambda Alumni Network](https://github.com/Lambda-School-Labs/lan-fe-a)
 
-🌱  I’m currently learning [TypeScript](https://www.typescriptlang.org/)
+🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/)
 
-🥅  2021 Goals: ~~Graduate from Lambda School~~, move to San Diego, CA & begin my career as a software engineer
+🥅 2021 Goals: ~~Graduate from Lambda School~~, move to San Diego, CA & begin my career as a software engineer
 
-⚡  Outside of Code: I love to photography, cooking, backpacking, & have never lived more than an hour from a beach
+⚡ Outside of Code: I love to photography, cooking, backpacking, & have never lived more than an hour from a beach
 
 <br>
 
@@ -68,14 +68,16 @@
 ![Figma](https://img.shields.io/badge/Figma-2E3440?style=for-the-badge&logo=figma)
 
 <!-- GitHub Stats -->
-<div align="center">
-  <img style="margin: 1rem" alt="Peter Lofland's GitHub Contribution Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Plofland&show_icons=true&hide_border=true&theme=tokyonight" />
+<div style="display: flex; align-items: center">
 
-  <img style="margin: 1rem; verticle-align: top"  alt="Peter Lofland's Most Used Language Stats"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=plofland&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=plofland&show_icons=true&locale=en&&theme=tokyonight&&layout=compact&hide_border=true&count_private=true&line_height=23&border_radius=false" alt="plofland github contribution stats" 
+  />
+
+  <img style="margin: 1rem; verticle-align: top"    src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=plofland&layout=compact&theme=radical" 
+  alt="Peter Lofland's Most Used Language Stats"
+  />
+
 </div>
-
-<!-- Use this in case my codestackr doesn't come back online-->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=justicematthew&show_icons=true&locale=en&&theme=nord&&layout=compact&hide_border=true&count_private=true&line_height=23&border_radius=false" alt="justicematthew" /> -->
 
 <!-- Social Icons Attribute -->
 <p align="right" style="font-size: .6rem">
