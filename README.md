@@ -68,16 +68,23 @@
 ![Figma](https://img.shields.io/badge/Figma-2E3440?style=for-the-badge&logo=figma)
 
 <!-- GitHub Stats -->
-<div style="display: flex; align-items: center">
+<!-- backgroundColor #151422 -->
 
-  <img src="https://github-readme-stats.vercel.app/api?username=plofland&show_icons=true&locale=en&&theme=tokyonight&&layout=compact&hide_border=true&count_private=true&line_height=23&border_radius=false" alt="plofland github contribution stats" 
+<a href="https://github.com/plofland/plofland">
+  <img 
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=plofland&show_icons=true&locale=en&&theme=tokyonight&&layout=compact&hide_border=true&count_private=true&line_height=27&border_radius=false" 
+    alt="plofland github contribution stats"
   />
-
-  <img style="margin: 1rem; verticle-align: top"    src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=plofland&layout=compact&theme=radical" 
-  alt="Peter Lofland's Most Used Language Stats"
+</a>
+<a href="https://github.com/plofland/plofland">
+  <img 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=plofland&hide_border=true&border_radius=false&hide=java,html,tex&theme=tokyonight&langs_count=3" 
+    alt="Peter Lofland's Most Used Language Stats"
   />
+</a>
 
-</div>
 
 <!-- Social Icons Attribute -->
 <p align="right" style="font-size: .6rem">
