@@ -6,7 +6,7 @@
 
 💻 Currently working on [Lambda Alumni Network](https://github.com/Lambda-School-Labs/lan-fe-a)
 
-🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/)
+🌱 I’m currently learning [NextJS](https://nextjs.org/) and [Tailwind](https://tailwindcss.com/)
 
 🥅 2021 Goals: ~~Graduate from Lambda School~~, move to San Diego, CA & begin my career as a software engineer
 
