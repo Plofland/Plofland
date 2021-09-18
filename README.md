@@ -4,11 +4,11 @@
 
 ## I'm a Full Stack Web Developer
 
-💻 Currently working on [Lambda Alumni Network](https://github.com/Lambda-School-Labs/lan-fe-a)
+💻 Currently working on ☕️ [7ayati Café & Hookah Bar](https://7ayati.vercel.app/) ☕️
 
-🌱 I’m currently learning [NextJS](https://nextjs.org/) and [Tailwind](https://tailwindcss.com/)
+🌱 I’m currently learning [NextJS](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), [Django](https://www.djangoproject.com/) and [GraphQL](https://graphql.org/)
 
-🥅 2021 Goals: ~~Graduate from Lambda School~~, move to San Diego, CA & begin my career as a software engineer
+🥅 2021 Goals: ~~Graduate from Lambda School~~, score at least 750 on the GCA, move to NYC & continue my career as a software engineer
 
 ⚡ Outside of Code: I love to photography, cooking, backpacking, & have never lived more than an hour from a beach
 
@@ -39,10 +39,12 @@
 ![CSS](https://img.shields.io/badge/CSS-2E3440?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-2E3440?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-2E3440?style=for-the-badge&logo=react)
+![Next js](https://img.shields.io/badge/Next%20js-2E3440?style=for-the-badge&logo=nextdotjs)
 ![Redux](https://img.shields.io/badge/Redux-2E3440?style=for-the-badge&logo=redux)
 ![React Router](https://img.shields.io/badge/React%20Router-2E3440?style=for-the-badge&logo=react%20router)
+![Styled-Components](https://img.shields.io/badge/Styled%20Components-2E3440?style=for-the-badge&logo=styled-components)
 ![npm](https://img.shields.io/badge/npm-2E3440?style=for-the-badge&logo=npm)
-![Node](https://img.shields.io/badge/Node-2E3440?style=for-the-badge&logo=node-dot-js)
+![Node](https://img.shields.io/badge/Node-2E3440?style=for-the-badge&logo=nodedotjs)
 ![Heroku](https://img.shields.io/badge/Heroku-2E3440?style=for-the-badge&logo=heroku)
 ![Express](https://img.shields.io/badge/Express-2E3440?style=for-the-badge&logo=express)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2E3440?style=for-the-badge&logo=postgresql)
@@ -50,13 +52,14 @@
 ![git](https://img.shields.io/badge/git-2E3440?style=for-the-badge&logo=git)
 ![Github](https://img.shields.io/badge/GitHub-2E3440?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-2E3440?style=for-the-badge&logo=Postman)
-![VS Code](https://img.shields.io/badge/VS%20Code-2E3440?style=for-the-badge&logo=visual%20studio)
-![Styled-Components](https://img.shields.io/badge/Styled%20Components-2E3440?style=for-the-badge&logo=styled-components)
+![Cypress](https://img.shields.io/badge/Cypress-2E3440?style=for-the-badge&logo=cypress)
 
 ## Experienced:
 
-![Next js](https://img.shields.io/badge/Next%20js-2E3440?style=for-the-badge&logo=next-dot-js)
 ![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python)
+![GraphQL](https://img.shields.io/badge/GraphQL-2E3440?style=for-the-badge&logo=graphql)
+![TypeScript](https://img.shields.io/badge/TypeScript-2E3440?style=for-the-badge&logo=typescript)
+![Docker](https://img.shields.io/badge/Docker-2E3440?style=for-the-badge&logo=docker)
 ![AWS Amplify](https://img.shields.io/badge/Amplify-2E3440?style=for-the-badge&logo=aws%20amplify)
 ![Netlify](https://img.shields.io/badge/Netlify-2E3440?style=for-the-badge&logo=netlify)
 ![Vercel](https://img.shields.io/badge/Vercel-2E3440?style=for-the-badge&logo=vercel)
@@ -66,6 +69,8 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-2E3440?style=for-the-badge&logo=tailwind%20css)
 ![Material-UI](https://img.shields.io/badge/Material%20UI-2E3440?style=for-the-badge&logo=material-ui)
 ![Figma](https://img.shields.io/badge/Figma-2E3440?style=for-the-badge&logo=figma)
+![Jest](https://img.shields.io/badge/Jest-2E3440?style=for-the-badge&logo=jest)
+![CircleCI](https://img.shields.io/badge/CircleCI-2E3440?style=for-the-badge&logo=circleci)
 
 <!-- GitHub Stats -->
 <!-- backgroundColor #151422 -->
