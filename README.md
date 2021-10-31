@@ -4,7 +4,7 @@
 
 ## I'm a Full Stack Web Developer
 
-💻 Currently working on ☕️ [7ayati Café & Hookah Bar](https://7ayati.vercel.app/) ☕️
+💻 Currently working on an ☕️ E-Commerce store ☕️ built with [NextJS](https://nextjs.org/), [Builder.io](https://www.builder.io/) & [Shopify](https://www.shopify.com/)
 
 🌱 I’m currently learning [NextJS](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), [Django](https://www.djangoproject.com/) and [GraphQL](https://graphql.org/)
 
