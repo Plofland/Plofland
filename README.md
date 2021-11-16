@@ -4,9 +4,7 @@
 
 ## I'm a Full Stack Web Developer
 
-💻 Currently working on an ☕️ E-Commerce store ☕️ built with [NextJS](https://nextjs.org/), [Builder.io](https://www.builder.io/) & [Shopify](https://www.shopify.com/)
-
-🌱 I’m currently learning [NextJS](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), [Django](https://www.djangoproject.com/) and [GraphQL](https://graphql.org/)
+💻 Currently working on an ☕️ E-Commerce store☕️ built with [NextJS](https://nextjs.org/), [Django](https://www.djangoproject.com/), [GraphQL](https://graphql.org/), & [TypeScript](https://www.typescriptlang.org/).
 
 🥅 2021 Goals: ~~Graduate from Lambda School~~, score at least 750 on the GCA, move to NYC & continue my career as a software engineer
 
