@@ -6,7 +6,7 @@
 
 💻 Currently working on an ☕️ E-Commerce store☕️ built with [NextJS](https://nextjs.org/), [Django](https://www.djangoproject.com/), [GraphQL](https://graphql.org/), & [TypeScript](https://www.typescriptlang.org/).
 
-🥅 2021 Goals: ~~Graduate from Lambda School~~, score at least 750 on the GCA, move to NYC & continue my career as a software engineer
+🥅 2021 Goals: ~~Graduate from Lambda School~~ & move to NYC & continue my career as a software engineer
 
 ⚡ Outside of Code: I love to photography, cooking, backpacking, & have never lived more than an hour from a beach
 
