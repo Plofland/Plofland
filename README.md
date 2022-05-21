@@ -4,9 +4,7 @@
 
 ## I'm a Full Stack Web Developer
 
-💻 Currently working on an ☕️ E-Commerce store☕️ built with [NextJS](https://nextjs.org/), [Django](https://www.djangoproject.com/), [GraphQL](https://graphql.org/), & [TypeScript](https://www.typescriptlang.org/).
-
-🥅 2021 Goals: ~~Graduate from Lambda School~~ & move to NYC & continue my career as a software engineer
+💻 Currently working as a full stack software engineer building with [NextJS](https://nextjs.org/), [Django](https://www.djangoproject.com/), [GraphQL](https://graphql.org/), & [TypeScript](https://www.typescriptlang.org/)
 
 ⚡ Outside of Code: I love to photography, cooking, backpacking, & have never lived more than an hour from a beach
 
@@ -33,11 +31,13 @@
 
 ## Proficient:
 
+![JavaScript](https://img.shields.io/badge/JavaScript-2E3440?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python)
 ![HTML](https://img.shields.io/badge/HTML-2E3440?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-2E3440?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-2E3440?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-2E3440?style=for-the-badge&logo=react)
 ![Next js](https://img.shields.io/badge/Next%20js-2E3440?style=for-the-badge&logo=nextdotjs)
+![GraphQL](https://img.shields.io/badge/GraphQL-2E3440?style=for-the-badge&logo=graphql)
 ![Redux](https://img.shields.io/badge/Redux-2E3440?style=for-the-badge&logo=redux)
 ![React Router](https://img.shields.io/badge/React%20Router-2E3440?style=for-the-badge&logo=react%20router)
 ![Styled-Components](https://img.shields.io/badge/Styled%20Components-2E3440?style=for-the-badge&logo=styled-components)
@@ -54,8 +54,6 @@
 
 ## Experienced:
 
-![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python)
-![GraphQL](https://img.shields.io/badge/GraphQL-2E3440?style=for-the-badge&logo=graphql)
 ![TypeScript](https://img.shields.io/badge/TypeScript-2E3440?style=for-the-badge&logo=typescript)
 ![Docker](https://img.shields.io/badge/Docker-2E3440?style=for-the-badge&logo=docker)
 ![AWS Amplify](https://img.shields.io/badge/Amplify-2E3440?style=for-the-badge&logo=aws%20amplify)
@@ -106,5 +104,4 @@
 [instagram]: https://www.instagram.com/peterlofland/
 [linkedin]: https://www.linkedin.com/in/peter-lofland/
 [gmail]: https://mail.google.com/mail/?view=cm&fs=1&to=ploflan@gmail.com&su=SUBJECT&body=BODY
-[portfolio]: https://peterlofland.com/
 [resume]: https://docs.google.com/document/d/1pFfp71AN5CcOXJOPLCCxcAPnkYM6qA-hiIY1qB2KipY/edit?usp=sharing
