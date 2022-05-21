@@ -4,7 +4,7 @@
 
 ## I'm a Full Stack Web Developer
 
-💻 Currently working as a full stack software engineer building with [NextJS](https://nextjs.org/), [Django](https://www.djangoproject.com/), [GraphQL](https://graphql.org/), & [TypeScript](https://www.typescriptlang.org/)
+💻 Currently at [Pallet](https://www.pallet.com/) & building with [NextJS](https://nextjs.org/), [Django](https://www.djangoproject.com/), [GraphQL](https://graphql.org/), & [TypeScript](https://www.typescriptlang.org/)
 
 ⚡ Outside of Code: I love to photography, cooking, backpacking, & have never lived more than an hour from a beach
 
