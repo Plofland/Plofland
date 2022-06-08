@@ -1,4 +1,4 @@
-## Hello, I'm Peter <img src="./assets/wave.gif" width="30px">
+## Hello, I'm Peter &nbsp; <img src="./assets/wave.gif" width="32px" height="32px">
 
 <br>
 
