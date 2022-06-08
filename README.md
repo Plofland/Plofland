@@ -11,7 +11,7 @@
 <br>
 
 <!-- [![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fpeterlofland.com/)](https://peterlofland.com) -->
-[![Resume](https://docs.google.com/document/d/1i9F6Tiel7X2TmJe8h0paQoqStCgg-8nnRTXTr7Ufjb8/edit?usp=sharing)](https://docs.google.com/document/d/1i9F6Tiel7X2TmJe8h0paQoqStCgg-8nnRTXTr7Ufjb8/edit?usp=sharing)
+[![Resume](https://img.shields.io/website?label=resume&style=for-the-badge&url=https%3A%2F%2Fdocs.google.com/document/d/1pFfp71AN5CcOXJOPLCCxcAPnkYM6qA-hiIY1qB2KipY/edit?usp=sharing)](https://docs.google.com/document/d/1i9F6Tiel7X2TmJe8h0paQoqStCgg-8nnRTXTr7Ufjb8/edit?usp=sharing)
 
 <!-- Contact Information -->
 <!-- ## Connect me: -->
