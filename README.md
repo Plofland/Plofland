@@ -99,7 +99,7 @@
     </a>
 </p>
 
-[website]: https://personal-portfolio-cyan.vercel.app/
+[website]: https://peterlofland.com/
 [twitter]: https://twitter.com/PeterLofland
 [instagram]: https://www.instagram.com/peterlofland/
 [linkedin]: https://www.linkedin.com/in/peter-lofland/
