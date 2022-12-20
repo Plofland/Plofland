@@ -4,7 +4,8 @@
 
 ## I'm a Full Stack Web Developer
 
-💻 Currently at [Pallet](https://www.pallet.com/) & building with [NextJS](https://nextjs.org/), [Django](https://www.djangoproject.com/), [GraphQL](https://graphql.org/), & [TypeScript](https://www.typescriptlang.org/)
+Currently at [Tabula Rasa HealthCare](https://www.tabularasahealthcare.com/).
+💻 Building and playing around with [NextJS](https://nextjs.org/), [Django](https://www.djangoproject.com/), [GraphQL](https://graphql.org/), & [TypeScript](https://www.typescriptlang.org/)
 
 ⚡ Outside of Code: I love to photography, cooking, backpacking, & have never lived more than an hour from a beach
 
