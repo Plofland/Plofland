@@ -12,7 +12,7 @@ Currently at [Tabula Rasa HealthCare](https://www.tabularasahealthcare.com/).
 <br>
 
 [![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fpeterlofland.com/)](https://peterlofland.com)
-[![Resume](https://docs.google.com/document/d/166N-UppfNgMAPJXoTfd55NR8NbICr13I8NGcL4ngirg/edit?usp=sharing)
+[![Resume](https://img.shields.io/website?label=resume&style=for-the-badge&url=https%3A%2F%2Fdocs.google.com/document/d/1pFfp71AN5CcOXJOPLCCxcAPnkYM6qA-hiIY1qB2KipY/edit?usp=sharing)](https://docs.google.com/document/d/166N-UppfNgMAPJXoTfd55NR8NbICr13I8NGcL4ngirg/edit?usp=sharing)
 
 <!-- Contact Information -->
 <!-- ## Connect me: -->
