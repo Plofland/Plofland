@@ -105,4 +105,4 @@ Currently at [Tabula Rasa HealthCare](https://www.tabularasahealthcare.com/).
 [instagram]: https://www.instagram.com/peterlofland/
 [linkedin]: https://www.linkedin.com/in/peter-lofland/
 [gmail]: https://mail.google.com/mail/?view=cm&fs=1&to=ploflan@gmail.com&su=SUBJECT&body=BODY
-[resume]: https://docs.google.com/document/d/1pFfp71AN5CcOXJOPLCCxcAPnkYM6qA-hiIY1qB2KipY/edit?usp=sharing
+[resume]: https://docs.google.com/document/d/166N-UppfNgMAPJXoTfd55NR8NbICr13I8NGcL4ngirg/edit?usp=sharing
