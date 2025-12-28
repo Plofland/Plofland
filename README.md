@@ -33,11 +33,13 @@ Currently at [AnewHealth](https://anewhealthrx.com/).
 ## Proficient:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-2E3440?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-2E3440?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python)
 ![HTML](https://img.shields.io/badge/HTML-2E3440?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-2E3440?style=for-the-badge&logo=css3)
 ![React](https://img.shields.io/badge/React-2E3440?style=for-the-badge&logo=react)
 ![Next js](https://img.shields.io/badge/Next%20js-2E3440?style=for-the-badge&logo=nextdotjs)
+![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2E3440?style=for-the-badge&logo=playwright)
 ![GraphQL](https://img.shields.io/badge/GraphQL-2E3440?style=for-the-badge&logo=graphql)
 ![Redux](https://img.shields.io/badge/Redux-2E3440?style=for-the-badge&logo=redux)
 ![React Router](https://img.shields.io/badge/React%20Router-2E3440?style=for-the-badge&logo=react%20router)
@@ -55,7 +57,6 @@ Currently at [AnewHealth](https://anewhealthrx.com/).
 
 ## Experienced:
 
-![TypeScript](https://img.shields.io/badge/TypeScript-2E3440?style=for-the-badge&logo=typescript)
 ![Docker](https://img.shields.io/badge/Docker-2E3440?style=for-the-badge&logo=docker)
 ![AWS Amplify](https://img.shields.io/badge/Amplify-2E3440?style=for-the-badge&logo=aws%20amplify)
 ![Netlify](https://img.shields.io/badge/Netlify-2E3440?style=for-the-badge&logo=netlify)
